@@ -3,8 +3,8 @@
   "description":"Proof-of-Concept with dependency confusion for researching and BugBounty-programs",
   "type":"library",
   "license":"MIT",
-  "license":"MIT",
   "autoload":{},
+  "authors":[
     {
       "name":"leksadin",
       "email":"leksadin@yandex.ru"
