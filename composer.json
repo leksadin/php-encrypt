@@ -1,0 +1,14 @@
+{
+  "name":"php-encrypt/php-encrypt",
+  "description":"Proof-of-Concept with dependency confusion for researching and BugBounty-programs",
+  "type":"library",
+  "license":"MIT",
+  "license":"MIT",
+  "autoload":{}
+    {
+      "name":"leksadin",
+      "email":"leksadin@yandex.ru"
+    }
+  ],
+  "require":{}
+}
